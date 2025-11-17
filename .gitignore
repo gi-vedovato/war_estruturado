@@ -1,0 +1,32 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Executables
+war_game
+war_game.exe
+test_war
+test_war.exe
+*.exe
+*.out
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Temporary files
+*~
+*.swp
+*.swo
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
+*.code-workspace
+
+# Build directories
+build/
+dist/
